@@ -1,3 +1,8 @@
+
+// Assignment 1
+// Written by: Tarutal Ghosh MOndal
+// Date:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
