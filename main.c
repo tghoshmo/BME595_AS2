@@ -2,6 +2,7 @@
 // Assignment 1
 // Written by: Tarutal Ghosh MOndal
 // Date:
+// Place
 
 #include <stdio.h>
 #include <stdlib.h>
